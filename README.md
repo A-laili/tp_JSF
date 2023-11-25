@@ -28,10 +28,10 @@ Cette application est une application web de gestion des employés et des servic
 
   ## Gestion des Services :
 
-1. Ajouter un nouveau service avec un nom spécifique.
-2. Afficher la liste des services
-3. Supprimer les services
-4. Mettre à jour les informations d'un service existant.
+1 . Ajouter un nouveau service avec un nom spécifique.
+2 . Afficher la liste des services
+3 . Supprimer les services
+4 . Mettre à jour les informations d'un service existant.
 
 ![image](https://github.com/A-laili/tp_JSF/assets/147451080/dd58da73-aba9-4cf4-8b4e-4e75059d5830)
 
