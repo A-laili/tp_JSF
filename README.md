@@ -11,9 +11,7 @@ Cette application est une application web de gestion des employés et des servic
 
 ![image](https://github.com/A-laili/tp_JSF/assets/147451080/d1e23409-f32e-46a1-bd36-3136ed187d6f)
 
-   ## La Base de Données
 
-![image](https://github.com/A-laili/tp_JSF/assets/147451080/f4aaf6d7-fba1-45aa-8506-a078aa8d164a)
 
   ## Gestion des Employés :
 
