@@ -7,13 +7,16 @@ Cette application est une application web de gestion des employés et des servic
 
 
 # Fonctionnalités
+   ## Authentification 
+
+![image](https://github.com/A-laili/tp_JSF/assets/147451080/d1e23409-f32e-46a1-bd36-3136ed187d6f)
 
   ## Gestion des Employés :
 
-1 . Ajouter un nouvel employé avec des détails tels que le nom, le prénom, la date de naissance, la photo, le service auquel l'employé appartient, etc.
-2 . Afficher la liste des employés
-3 . Supprimer les employés
-4 . Mettre à jour les informations d'un employé existant.
+- Ajouter un nouvel employé avec des détails tels que le nom, le prénom, la date de naissance, la photo, le service auquel l'employé appartient, etc.
+- Afficher la liste des employés
+- Supprimer les employés
+- Mettre à jour les informations d'un employé existant.
 
 ![image](https://github.com/A-laili/tp_JSF/assets/147451080/94d78dc1-16ff-4e43-9365-794c18ecd658)
 
@@ -28,10 +31,10 @@ Cette application est une application web de gestion des employés et des servic
 
   ## Gestion des Services :
 
-1 . Ajouter un nouveau service avec un nom spécifique.
-2 . Afficher la liste des services
-3 . Supprimer les services
-4 . Mettre à jour les informations d'un service existant.
+- Ajouter un nouveau service avec un nom spécifique.
+- Afficher la liste des services
+- Supprimer les services
+- Mettre à jour les informations d'un service existant.
 
 ![image](https://github.com/A-laili/tp_JSF/assets/147451080/dd58da73-aba9-4cf4-8b4e-4e75059d5830)
 
